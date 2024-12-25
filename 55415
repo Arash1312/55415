@@ -1,0 +1,4 @@
+/opt/dcdn/pipe-tool login --node-registry-url="https://rpc.pipedev.network"
+/opt/dcdn/pipe-tool generate-registration-token --node-registry-url="https://rpc.pipedev.network"
+systemctl restart dcdnd
+/opt/dcdn/pipe-tool list-nodes --node-registry-url="https://rpc.pipedev.network"
