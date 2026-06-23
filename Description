@@ -1,0 +1,32 @@
+ChronaLink is an intelligent file version tracker that automatically creates meaningful snapshots of local projects, generates AI-powered change summaries, and allows developers to navigate project history using natural language queries.
+
+Features:
+- Automatic project snapshots
+- AI-generated commit summaries
+- Natural language search through project history
+- Timeline visualization
+- Restore files from any snapshot
+- Cross-platform support (Windows, Linux, macOS)
+- Lightweight and privacy-focused
+
+Example Queries:
+- "Show changes related to authentication"
+- "Find when the payment API was added"
+- "Restore the version before the database migration"
+
+Tech Stack:
+- Python
+- SQLite
+- FastAPI
+- React
+- Git Integration
+AI-powered project history explorer with automatic snapshots, smart change summaries, and natural language search.
+ai
+git
+productivity
+developer-tools
+version-control
+python
+react
+fastapi
+history-tracker
